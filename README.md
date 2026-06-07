@@ -5,10 +5,7 @@ Former Data Science Intern with 4 months of experience.
 Python | Pandas | NumPy | Scikit-Learn| TensorFlow | SQL | Machine Learning| Data Analysis| Data Visualization | Git & GitHub
 
 ### 📌 Featured Projects
-#### Fraud Detection System
-#### Churn Prediction System
-#### Credit Risk Feature Pipeline
-#### Email Classifier| NLP-based email classification system.
+#### Fraud Detection System| #### Churn Prediction System | #### Credit Risk Feature Pipeline|#### Email Classifier| NLP-based email classification system.
 ### 🌱 Currently Learning
 - Deep Learning| FastAPI| MLOps| LLM Applications
 ### 📫 Connect With Me
