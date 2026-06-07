@@ -6,19 +6,10 @@ Python | Pandas | NumPy | Scikit-Learn| TensorFlow | SQL | Machine Learning| Dat
 
 ### 📌 Featured Projects
 #### Fraud Detection System
-Machine Learning model to detect fraudulent transactions.
 #### Churn Prediction System
-Predict customer churn using classification models.
 #### Credit Risk Feature Pipeline
-Feature engineering pipeline for credit risk assessment.
-#### Email Classifier
-NLP-based email classification system.
+#### Email Classifier| NLP-based email classification system.
 ### 🌱 Currently Learning
-- Deep Learning
-- FastAPI
-- MLOps
-- LLM Applications
+- Deep Learning| FastAPI| MLOps| LLM Applications
 ### 📫 Connect With Me
-- Email: your-email
-- Portfolio: your-portfolio-link
-- LinkedIn: your-linkedin
+- Email: your-email| Portfolio: your-portfolio-link| LinkedIn: your-linkedin
