@@ -1,29 +1,45 @@
-## Hi there 👋
+# Hi, I'm Tapaswee Lolla 👋
 
-then my score drops quickly.
+## Aspiring AI/ML Engineer
 
-4. No Tech Stack Visible
+Former Data Science Intern with 4 months of experience.
 
-Your profile doesn't immediately tell me:
+### 🚀 Tech Stack
 
-Python
-Scikit-learn
-TensorFlow
-Pandas
-SQL
-FastAPI
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- TensorFlow
+- SQL
+- Machine Learning
+- Data Analysis
+- Data Visualization
+- Git & GitHub
 
-Add those to your profile README.<!--
-**lolla245/lolla245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📌 Featured Projects
 
-Here are some ideas to get you started:
+#### Fraud Detection System
+Machine Learning model to detect fraudulent transactions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Churn Prediction System
+Predict customer churn using classification models.
+
+#### Credit Risk Feature Pipeline
+Feature engineering pipeline for credit risk assessment.
+
+#### Email Classifier
+NLP-based email classification system.
+
+### 🌱 Currently Learning
+
+- Deep Learning
+- FastAPI
+- MLOps
+- LLM Applications
+
+### 📫 Connect With Me
+
+- Email: your-email
+- Portfolio: your-portfolio-link
+- LinkedIn: your-linkedin
