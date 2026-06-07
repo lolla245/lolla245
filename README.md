@@ -1,6 +1,19 @@
 ## Hi there 👋
 
-<!--
+then my score drops quickly.
+
+4. No Tech Stack Visible
+
+Your profile doesn't immediately tell me:
+
+Python
+Scikit-learn
+TensorFlow
+Pandas
+SQL
+FastAPI
+
+Add those to your profile README.<!--
 **lolla245/lolla245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
