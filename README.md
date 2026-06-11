@@ -10,4 +10,4 @@
 - Python | Data Structures & Algorithms (DSA) | Flask | Git & GitHub | Data Analysis | Data Science | Machine Learning
 
 ### Interests
-- Data Science| Machine Learning | AI Applications | Problem Solving
+- Data Science | Machine Learning | AI Applications | Problem Solving
