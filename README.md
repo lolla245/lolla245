@@ -2,7 +2,7 @@
 
 📊 Aspiring Data Scientist | 🤖 Machine Learning Enthusiast | 🚀 Open to Opportunities
 
-🔗 Portfolio: [https://your-portfolio-link.com](https://lolla245.github.io/My_Portfolio/)
+🔗 Portfolio: [tapaswee.lolla](https://lolla245.github.io/My_Portfolio/)
 📧 Email: lollatapaswee@gmail.com
 
 ### Experience
