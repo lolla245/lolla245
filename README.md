@@ -1,7 +1,7 @@
 # Hi, I'm Tapaswee Lolla 👋
 📊 Aspiring AI/ML Engineer | 🤖 RAG & LLM Systems | 🚀 Open to Opportunities
 
-🔗 Portfolio: tapaswee.lolla (https://lolla245.github.io/My_Portfolio/)
+🔗 Portfolio:[Tapaswee Lolla](https://lolla245.github.io/My_Portfolio/) 👋)
 📧 Email: lollatapaswee@gmail.com
 
 ### Experience
